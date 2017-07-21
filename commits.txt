@@ -1,0 +1,11 @@
+commit fbeda47a42687b078ca9682ef2f9f3cc0b704e34
+Author: arteagaona <arteaga@ciencias.unam.mx>
+Date:   Wed Jul 19 22:56:23 2017 -0500
+
+    agregamos una nueva linea al archivo
+
+commit 5ea295d106d361e7e41e8a113d67bf2afaa9ba3e
+Author: arteagaona <arteaga@ciencias.unam.mx>
+Date:   Wed Jul 19 22:12:54 2017 -0500
+
+    Just added a new text file
